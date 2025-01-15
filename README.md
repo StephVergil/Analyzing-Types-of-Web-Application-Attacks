@@ -4,6 +4,12 @@ This project provides a comprehensive guide for understanding and simulating web
 
 ---
 
+## Project Link
+
+Explore project documentation: [Analyzing Types of Web Application Attacks](https://github.com/StephVergil/Analyzing-Types-of-Web-Application-Attacks/blob/main/Analyzing%20Types%20of%20Web%20Application%20Attacks.docx)
+
+---
+
 ## Overview
 
 ### Topics Covered:
